@@ -1,0 +1,13 @@
+2025-03-06 10:20:02,114 - ERROR - Файл не найден: /Users/vidal/PycharmProjects/AudioSplitFormat/20250305_160414.m4a
+2025-03-06 10:20:11,189 - ERROR - Файл не найден: /Users/vidal/PycharmProjects/AudioSplitFormat/20250305_160414
+2025-03-06 10:20:20,153 - ERROR - Файл не найден: /Users/vidal/PycharmProjects/AudioSplitFormat/protocol
+2025-03-06 10:20:32,507 - ERROR - Файл не найден: /Users/vidal/PycharmProjects/AudioSplitFormat/protocol.m4a
+2025-03-06 10:29:31,779 - ERROR - Файл не найден: /Users/vidal/PycharmProjects/AudioSplitFormat/20250305_160414.m4a
+2025-03-06 10:31:43,258 - ERROR - Файл не найден: /Users/vidal/PycharmProjects/AudioSplitFormat/20250305_160414.m4a
+2025-03-06 10:33:33,757 - ERROR - Файл не найден: /Users/vidal/PycharmProjects/AudioSplitFormat/20250305_160414.m4a
+2025-03-06 10:34:51,695 - ERROR - Файл не найден: /Users/vidal/PycharmProjects/AudioSplitFormat/20250305_160414.m4a
+2025-03-06 10:37:00,349 - INFO - Загрузка аудиофайла: /Users/vidal/PycharmProjects/AudioSplitFormat/input_file/20250305_160414.m4a
+2025-03-06 10:37:20,576 - INFO - Сохранен сегмент: /Users/vidal/PycharmProjects/AudioSplitFormat/output_dir/chunk_1.mp3
+2025-03-06 10:37:35,689 - INFO - Сохранен сегмент: /Users/vidal/PycharmProjects/AudioSplitFormat/output_dir/chunk_2.mp3
+2025-03-06 10:37:50,882 - INFO - Сохранен сегмент: /Users/vidal/PycharmProjects/AudioSplitFormat/output_dir/chunk_3.mp3
+2025-03-06 10:37:50,882 - INFO - Обработка завершена.
